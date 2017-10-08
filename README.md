@@ -1,5 +1,6 @@
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 I'll try to change DEV branch 
+GIT NOT TOO DIFFICULT
 
 ## How to use this template
 
